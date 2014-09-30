@@ -15,6 +15,9 @@ if !exists('g:inline_syntax_filetypes')
         \ "cpp" : {
         \   "start" : "cpp",
         \},
+        \ "php" : {
+        \   "start" : "php",
+        \},
         \ "java" : {
         \   "start" : "java",
         \},
